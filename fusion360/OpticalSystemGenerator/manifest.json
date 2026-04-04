@@ -1,0 +1,1 @@
+{ "name": "OpticalSystemGenerator", "description": "An add-in for generating optical systems", "version": "1.0", "command": { "id": "generateOpticalSystem", "name": "Generate Optical System", "description": "Generates an optical system model." } }
